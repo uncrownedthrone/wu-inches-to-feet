@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import InchesToFeet from './components/InchesToFeet'
 
 const App = () => {
-  return <HelloWorld />
+  return <InchesToFeet />
 }
 
 export default App
